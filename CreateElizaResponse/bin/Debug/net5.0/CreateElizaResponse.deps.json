@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CreateElizaResponse/1.0.0": {
+        "runtime": {
+          "CreateElizaResponse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreateElizaResponse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
